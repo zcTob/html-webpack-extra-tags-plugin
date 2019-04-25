@@ -23,6 +23,7 @@
 
 **webpack.config.js**
 ```js
+const HtmlWebpackPlugin = require('html-webpack-plugin')
 const HtmlWebpackExtraTagsPlugin = require('html-webpack-extra-tags-plugin')
 
 module.exports = {
