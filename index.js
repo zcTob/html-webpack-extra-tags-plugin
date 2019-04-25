@@ -1,7 +1,7 @@
 const HtmlWebpackPlugin = require("html-webpack-plugin");
 const path = require("path");
 
-class MyPlugin {
+class HtmlWebpackExtraTagsPlugin {
     constructor(options) {
         const userOptions = options || {};
         const defaultOptions = {
@@ -69,4 +69,4 @@ class MyPlugin {
     }
 }
 
-module.exports = MyPlugin;
+module.exports = HtmlWebpackExtraTagsPlugin;
