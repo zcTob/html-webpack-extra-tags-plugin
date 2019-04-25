@@ -45,19 +45,19 @@ class MyPlugin {
             const css = assets.css.join("");
             const js = assets.js.join("");
             compilation.assets[this.getOutputName("webpack-css.html")] = {
-                source: function() {
+                source: function () {
                     return css;
                 },
-                size: function() {
+                size: function () {
                     return css.length;
                 }
             };
 
             compilation.assets[this.getOutputName("webpack-js.html")] = {
-                source: function() {
+                source: function () {
                     return js;
                 },
-                size: function() {
+                size: function () {
                     return js.length;
                 }
             };
