@@ -33,7 +33,7 @@ class HtmlWebpackExtraTagsPlugin {
                     });
                     data.headTags.forEach(v => {
                         assets.css.push(
-                            `<link src='${v.attributes.href}' rel="stylesheet">`
+                            `<link herf='${v.attributes.href}' rel="stylesheet">`
                         );
                     });
                     // Tell webpack to move on
