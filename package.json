@@ -1,6 +1,6 @@
 {
   "name": "html-webpack-extra-tags-plugin",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Extract CSS and js into the target file",
   "main": "index.js",
   "repository": "git@github.com:zhangyuimitate/html-webpack-extra-tags-plugin.git",
