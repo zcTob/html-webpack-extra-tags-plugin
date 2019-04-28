@@ -42,7 +42,7 @@ module.exports = {
 This will generate a file `dist/webpack-css.html,webpack-js.html` containing the following
 
 ```html
-    <link src="xxx.css"></link>
+    <link href="xxx.css"></link>
 ```
 
 ```html
