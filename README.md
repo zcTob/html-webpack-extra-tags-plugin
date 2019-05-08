@@ -4,8 +4,8 @@
 [npm]: https://img.shields.io/npm/v/html-webpack-extra-tags-plugin.svg
 [npm-url]: https://npmjs.com/package/html-webpack-extra-tags-plugin
 
-[node]: https://img.shields.io/npm/v/html-webpack-extra-tags-plugin.svg
-[npm-url]: https://npmjs.com/package/html-webpack-extra-tags-plugin
+[node]: https://img.shields.io/node/v/html-webpack-extra-tags-plugin.svg
+[node-url]: https://nodejs.org
 
 
 <div align="center">
