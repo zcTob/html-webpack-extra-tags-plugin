@@ -1,3 +1,4 @@
+[![NPM version](https://img.shields.io/npm/v/html-webpack-extra-tags-plugin.svg)](https://www.npmjs.com/package/html-webpack-extra-tags-plugin)
 <div align="center">
   <img width="200" height="200" src="https://worldvectorlogo.com/logos/html5.svg">
   <a href="https://github.com/webpack/webpack">
