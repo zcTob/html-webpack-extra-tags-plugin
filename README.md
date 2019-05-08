@@ -1,5 +1,6 @@
 [![npm][npm]][npm-url]
-[![node][node][node-url]
+[![node][node]][node-url]
+
 [npm]: https://img.shields.io/npm/v/html-webpack-extra-tags-plugin.svg
 [npm-url]: https://npmjs.com/package/html-webpack-extra-tags-plugin
 
