@@ -13,6 +13,7 @@
     "extra-css",
     "extra-js"
   ],
+  "engines": {"node": ">=8.15.0"},
   "author": "zy",
   "license": "MIT",
   "dependencies": {
