@@ -1,11 +1,3 @@
-[![npm][npm]][npm-url]
-[![node][node]][node-url]
-![npm](https://img.shields.io/npm/dw/html-webpack-plugin.svg)
-[![deps][deps]][deps-url]
-[![tests][tests]][tests-url]
-[![Backers on Open Collective](https://opencollective.com/html-webpack-plugin/backers/badge.svg)](#backers)
- [![Sponsors on Open Collective](https://opencollective.com/html-webpack-plugin/sponsors/badge.svg)](#sponsors) 
-
 <div align="center">
   <img width="200" height="200" src="https://worldvectorlogo.com/logos/html5.svg">
   <a href="https://github.com/webpack/webpack">
