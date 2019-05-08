@@ -1,9 +1,4 @@
-[![NPM version](https://img.shields.io/npm/v/html-webpack-extra-tags-plugin.svg)](https://www.npmjs.com/package/html-webpack-extra-tags-plugin)
 [![npm][npm]][npm-url]
-
-
-
-
 
 [npm]: https://img.shields.io/npm/v/html-webpack-extra-tags-plugin.svg
 [npm-url]: https://npmjs.com/package/html-webpack-extra-tags-plugin
