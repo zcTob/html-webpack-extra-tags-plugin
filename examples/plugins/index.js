@@ -32,11 +32,9 @@ class HtmlWebpackExtraTagsPlugin {
                         );
                     });
                     data.headTags.forEach(v => {
-                        if(v.tagName === 'link') {
-                            assets.css.push(
-                                `<link herf='${v.attributes.href}' rel='stylesheet'>`
-                            );
-                        }
+                        assets.css.push(
+                            `<link herf='${v.attributes.href}' rel="stylesheet">`
+                        );
                     });
                     // Tell webpack to move on
                     cb(null, data);

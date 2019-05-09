@@ -1,0 +1,24 @@
+{
+    "name": "examples",
+    "version": "1.0.0",
+    "main": "index.js",
+    "private": true,
+    "scripts": {
+        "test": "jest",
+        "build": "webpack --config ./webpack.config.js"
+    },
+    "author": "zy",
+    "license": "MIT",
+    "dependencies": {
+        "html-webpack-extra-tags-plugin": "^1.0.4",
+        "html-webpack-plugin": "^4.0.0-beta.5",
+        "webpack": "^4.30.0"
+    },
+    "devDependencies": {
+        "clean-webpack-plugin": "^2.0.2",
+        "css-loader": "^2.1.1",
+        "jest": "^24.8.0",
+        "style-loader": "^0.23.1",
+        "webpack-cli": "^3.3.2"
+    }
+}

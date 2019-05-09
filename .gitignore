@@ -4,3 +4,7 @@
 npm-debug.*.log
 yarn.lock
 package-lock.json
+/exam
+examples/node_modules
+examples/dist
+.vscode
