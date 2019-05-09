@@ -1,6 +1,6 @@
 [![npm][npm]][npm-url]
-[![node][node]][node-url]
 [![Build Status](https://travis-ci.com/zyrepo/html-webpack-extra-tags-plugin.svg?branch=master)](https://travis-ci.com/zyrepo/html-webpack-extra-tags-plugin)
+
 [npm]: https://img.shields.io/npm/v/html-webpack-extra-tags-plugin.svg
 [npm-url]: https://npmjs.com/package/html-webpack-extra-tags-plugin
 
