@@ -36,5 +36,9 @@
             "<rootDir>/dist"
         ],
         "testEnvironment": "node"
-    }
+    },
+    "files": [
+        "index.js",
+        "LICENSE"
+    ]
 }
